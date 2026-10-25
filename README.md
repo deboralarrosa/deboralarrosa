@@ -1,4 +1,4 @@
-# Hi there, I'm Débora Larrosa 👋
+8# Hi there, I'm Débora Larrosa 👋
 
 I am an aspiring **Python Developer** with a strong background in education, communication, and problem-solving. After 15+ years of teaching English and designing interactive learning environments, I am transitioning into software development, leveraging my logical mindset, adaptability, and passion for technology.
 
@@ -24,4 +24,4 @@ I am an aspiring **Python Developer** with a strong background in education, com
 
 ---
 
-📫 **How to reach me:** www.linkedin.com/in/deborapyhtondev - debora.pyhton.dev@gmail.com
+📫 **How to reach me:** https://www.linkedin.com/public-profile/settings/ - debora.pyhton.dev@gmail.com
