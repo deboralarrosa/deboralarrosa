@@ -24,4 +24,4 @@ I am an aspiring **Python Developer** with a strong background in education, com
 
 ---
 
-📫 **How to reach me:** www.linkedin.com/in/debora-larrosa-37b90b15a - deboraebenezer123@gmail.com
+📫 **How to reach me:** www.linkedin.com/in/deborapyhtondev - debora.pyhton.dev@gmail.com
